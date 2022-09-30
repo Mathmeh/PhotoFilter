@@ -7,3 +7,7 @@
 * Подготовить отчёт с анализом производительности и масштабируемости полученного решения.
 # Example
 ![Image alt](https://github.com/Mathmeh/PhotoFilter/raw/master/example.png)
+
+# References
+[OpenCl.Net](https://github.com/lecode-official/opencl-dotnet)
+
